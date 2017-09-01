@@ -1,3 +1,5 @@
+# Not maintained
+
 # Change color status
 
 The following is specialized for use combined with this plugin: [KanboardCSS](https://gitlab.com/ThomasTJ/KanboardCSS)
